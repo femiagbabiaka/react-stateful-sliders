@@ -1,2 +1,2 @@
-# Just a simple stateful React component
+Just a simple stateful React component.
 
